@@ -2,8 +2,6 @@
 
 ### Data Analyst | Python · SQL · Excel · Power BI · Tableau · Cloud  
 
-<img src="assets/headshot-placeholder.png" alt="Darrell Mortalla" width="140" align="right" style="border-radius:50%;margin-left:10px;">
-
 I’m a data analyst specializing in **end-to-end analytics workflows** — from cleaning and modeling data to building **cloud-deployed dashboards** and **automated business-intelligence pipelines**.
 
 ---
