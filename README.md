@@ -2,7 +2,7 @@
 
 ### Data Analyst | Python · SQL · Excel · Power BI · Tableau · Cloud  
 
-I’m a data analyst specializing in **end-to-end analytics workflows** — from cleaning and modeling data to building **cloud-deployed dashboards** and **automated business-intelligence pipelines**.
+I’m a data analyst specializing in using AI to build **end-to-end analytics workflows** — from cleaning and modeling data to deploying **multi-cloud dashboards** and **automated business-intelligence pipelines**.
 
 ---
 
