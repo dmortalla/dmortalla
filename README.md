@@ -27,15 +27,17 @@ Built with Streamlit featuring:
 
 **Tech:** Python, Streamlit, LLMs
 
+💼 Use Case: AI assistant capable of answering questions over documents, performing calculations, and maintaining conversational context.
+
 ---
 
-### 🧠 AI Chatbot (Dog Breed Recommender)
+### 🧠 ML-Powered Recommendation System (Dog Breed Assistant)
 AI-powered chatbot application using machine learning and Streamlit.
 
 ---
 
 ### ⚙️ ML Pipeline — Churn Prediction (MLflow + FastAPI)
-End-to-end ML system with:
+Production-style ML system covering the full lifecycle:
 - Model training
 - Experiment tracking (MLflow)
 - API deployment (FastAPI)
