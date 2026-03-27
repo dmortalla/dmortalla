@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Darrell Mortalla
 
-### Data Analyst | Python · SQL · Excel · Power BI · Tableau · Cloud  
+### AI Engineer | LLMs · RAG · Machine Learning · Data Systems
 
-I’m a data analyst specializing in using AI to build **end-to-end analytics workflows** — from cleaning and modeling data to deploying **multi-cloud dashboards** and **automated business-intelligence pipelines**.
+I build production-style AI systems using LLMs, RAG pipelines, and machine learning.
+
+My work spans:
+- LLM applications (RAG, tool-use agents, memory systems)
+- Machine learning (PyTorch, Scikit-learn)
+- ML engineering (FastAPI, MLflow, Docker)
+- Data systems (PySpark, DuckDB, cloud pipelines)
 
 ---
 
