@@ -2,10 +2,12 @@
 
 ### AI Engineer | LLMs · RAG · Machine Learning · Data Systems
 
-I build production-style AI systems using LLMs, RAG pipelines, and machine learning.
+I build production-style AI systems, including LLM applications, RAG pipelines, and end-to-end ML workflows.
+
+Focused on building real-world AI systems that combine LLMs, machine learning, and data engineering into production-style applications.
 
 My work spans:
-- LLM applications (RAG, tool-use agents, memory systems)
+- LLM applications (RAG pipelines, tool-augmented agents, conversational memory)
 - Machine learning (PyTorch, Scikit-learn)
 - ML engineering (FastAPI, MLflow, Docker)
 - Data systems (PySpark, DuckDB, cloud pipelines)
@@ -32,7 +34,7 @@ Built with Streamlit featuring:
 ---
 
 ### 🧠 ML-Powered Recommendation System (Dog Breed Assistant)
-AI-powered chatbot application using machine learning and Streamlit.
+Machine learning–based recommendation system for dog breed selection, deployed as an interactive Streamlit application.
 
 ---
 
@@ -46,6 +48,8 @@ Production-style ML system covering the full lifecycle:
 
 ### 🏗️ Data Engineering Pipeline (Lakehouse)
 Medallion architecture pipeline using DuckDB and modular ETL design.
+
+🔍 Focus Areas: LLM applications, RAG systems, ML pipelines, and AI system design
 
 ---
 
