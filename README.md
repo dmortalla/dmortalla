@@ -17,7 +17,9 @@ My work spans:
 ## 🚀 AI & Machine Learning Projects (Flagship)
 
 ### 🤖 Personal AI Assistant — RAG + Memory + Tools
-Production-style AI assistant built with Streamlit featuring:
+Production-style AI assistant demonstrating LLM orchestration, retrieval pipelines, and tool-augmented reasoning.
+
+Built with Streamlit featuring:
 - Retrieval-Augmented Generation (RAG)
 - Tool execution (calculator via AST parsing)
 - Conversational memory
