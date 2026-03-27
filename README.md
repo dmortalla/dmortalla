@@ -14,6 +14,41 @@ My work spans:
 
 ## 🧩 Featured Projects
 
+## 🚀 AI & Machine Learning Projects (Flagship)
+
+### 🤖 Personal AI Assistant — RAG + Memory + Tools
+Production-style AI assistant built with Streamlit featuring:
+- Retrieval-Augmented Generation (RAG)
+- Tool execution (calculator via AST parsing)
+- Conversational memory
+- Modular architecture
+
+**Tech:** Python, Streamlit, LLMs
+
+---
+
+### 🧠 AI Chatbot (Dog Breed Recommender)
+AI-powered chatbot application using machine learning and Streamlit.
+
+---
+
+### ⚙️ ML Pipeline — Churn Prediction (MLflow + FastAPI)
+End-to-end ML system with:
+- Model training
+- Experiment tracking (MLflow)
+- API deployment (FastAPI)
+
+---
+
+### 🏗️ Data Engineering Pipeline (Lakehouse)
+Medallion architecture pipeline using DuckDB and modular ETL design.
+
+---
+
+## 📊 Data Analytics & BI Projects (Foundation)
+
+A collection of analytics projects covering data cleaning, visualization, and business intelligence.
+
 | # | Project | Description | Tools |
 |---|----------|--------------|--------|
 | 1 | [**Data Cleaning & Preparation**](https://github.com/dmortalla/project1-data-cleaning) | Retail Sales dashboard with AWS deployment — end-to-end data wrangling workflow with validation scripts. | Python · Pandas · AWS |
