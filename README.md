@@ -4,7 +4,7 @@
 
 I build production-style AI systems, including LLM applications, RAG pipelines, and end-to-end ML workflows.
 
-Focused on building real-world AI systems that combine LLMs, machine learning, and data engineering into production-style applications.
+My work focuses on combining LLMs, machine learning, and data engineering into real-world, production-ready applications.
 
 My work spans:
 - LLM applications (RAG pipelines, tool-augmented agents, conversational memory)
@@ -29,7 +29,9 @@ Built with Streamlit featuring:
 
 **Tech:** Python, Streamlit, LLMs
 
-💼 Use Case: AI assistant capable of answering questions over documents, performing calculations, and maintaining conversational context.
+💼 Use Case: AI assistant capable of answering questions from documents, performing calculations, and maintaining conversational context.
+
+🧱 Architecture: Modular pipeline with retrieval layer, tool execution layer, and memory management
 
 ---
 
@@ -49,7 +51,7 @@ Production-style ML system covering the full lifecycle:
 ### 🏗️ Data Engineering Pipeline (Lakehouse)
 Medallion architecture pipeline using DuckDB and modular ETL design.
 
-🔍 Focus Areas: LLM applications, RAG systems, ML pipelines, and AI system design
+🔍 Focus Areas: LLM applications, RAG systems, ML pipelines, and AI system design & architecture
 
 ---
 
